@@ -17,6 +17,7 @@
 
 ## GitHub Stats 📈
 ![devNaveesha's github stats](https://github-readme-stats.vercel.app/api?username=devNaveesha&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devNaveesha&theme=tokyonight" alt="mystreak"/>
 ![devNaveesha's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devNaveesha&theme=tokyonight&layout=compact)
 
 <!---
